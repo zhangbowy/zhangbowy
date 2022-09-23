@@ -14,7 +14,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangbowy" alt="zhangbowy" /></a> </p>
 
-- 📝 I regularly write articles on [www.mawenqing.net](http://zhangbo.yuneshow.com)
+- 📝 I regularly write articles on [http://zhangbo.yuneshow.com](http://zhangbo.yuneshow.com)
 
 - 📫 How to reach me **1751170889@qq.com**
 
