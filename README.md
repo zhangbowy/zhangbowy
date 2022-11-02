@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangbowy" alt="zhangbowy" /></a> </p>
 
-- 📝 I regularly write articles on [http://zhangbo.yuneshow.com](http://zhangbo.yuneshow.com)
+- 📝 [点击前往我的掘金](https://juejin.cn/user/3104676568630520/posts?sort=popular)
 
 - 📫 How to reach me **1751170889@qq.com**
 
