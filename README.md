@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zhangbowy&label=Profile%20views&color=0e75b6&style=flat" alt="zhangbowy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangbowy" alt="zhangbowy" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangbowy" alt="zhangbowy" /></a> </p> -->
 
 - 📝 [点击前往我的掘金](https://juejin.cn/user/3104676568630520/posts?sort=popular)
 
