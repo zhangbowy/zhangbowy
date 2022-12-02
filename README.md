@@ -8,8 +8,6 @@
 
 - 📝 [点击前往我的掘金](https://juejin.cn/user/3104676568630520/posts?sort=popular)
 
-- 📫 How to reach me **1751170889@qq.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
